@@ -1,0 +1,45 @@
+* {
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+}
+
+body {
+   font-family: 'Source Sans Pro', sans-serif;
+   color: #fff;
+   background: #00405C;
+   background: -webkit-linear-gradient(top left, #00405C, #BC5090);
+   background: -moz-linear-gradient(top left, #00405C, #BC5090);
+   background: linear-gradient(to bottom right, #00405C, #BC5090)
+}
+
+h1, h2, h3 {
+   font-family: 'Libre Baskerville', serif;
+   margin-bottom: 1rem;
+   color: #FFA602
+}
+
+a {
+   color: #FFF;
+   transition: color .6s ease-in-out;
+}
+
+a:hover {
+   color: #FFA602;
+}
+
+.container {
+   width: 500px;
+   margin: 50vh auto;
+   text-align: center;
+}
+
+.social-links{
+   margin-top: 2rem;
+   color: white;
+}
+
+i {
+   font-size: 2rem;
+   padding: 1rem;
+}
