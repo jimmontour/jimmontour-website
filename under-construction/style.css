@@ -13,7 +13,7 @@ body {
 h1, h2, h3 {
    font-family: 'Libre Baskerville', serif;
    margin-bottom: 1rem;
-   color: #FFA602
+   color: #rub
 }
 
 a {
@@ -26,7 +26,6 @@ a:hover {
 }
 
 .container {
-   width: 400px;
    margin: 50vh auto;
    text-align: center;
 }
